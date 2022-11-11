@@ -1,5 +1,9 @@
-# DS-Unit-3-Sprint-1-Software-Engineering
-Software Engineering and Reproducible Research for Data Science
+# Bloomtech Data Science - Unit 3
+## 3.1: Software Engineering and Reproducible Research for Data Science
+
+This repository serves to document and store my completed projects, assignments, and learning materials from the Bloomtech data science curriculum.
+
+Warm-up Activities, Guided Projects (lectures) and Module Projects (assignments) for unit 3.1 are found in this repository. The projects for 3.1 are additive and build upon each previous module, and can be found in the project folder bloomdata-michael-s-luo
 
 ## The World Beyond Notebooks
 
@@ -15,3 +19,8 @@ data science tasks. Behold, **lambdata**!
 ![Lamb](/images/lamb.jpg)
 
 See each module for specific objectives and assignments. 
+
+
+
+
+
