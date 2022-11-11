@@ -5,7 +5,7 @@ Date: 2022/11/10
 """
 
 import random
-import pandas as pd, numpy as np
+import pandas as pd
 
 
 def random_phrase():
